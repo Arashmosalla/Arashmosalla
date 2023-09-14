@@ -7,7 +7,7 @@
 
 - 💻 I am a highly innovative and motivated Transportation eng at Amirkabir university of technology (Tehrana polytechnic),
 - 🌱 I have developed my software development skills as a self-taught programmer, proficient in Python and Machine learning.
-- 💻 I am keen to learn and tackling ITS and chalenges by utilizing the latest academic research, performing advanced data analyses and dealing with big data, and implementing efficient ML models.
+- 💻 I am keen to learn and tackling ITS and chalenges by utilizing the latest academic research, performing advanced data analyses, dealing with big data, and implementing efficient ML models.
 - 📫 How to reach me: arashmosalla96@gmail.com
 
 
