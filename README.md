@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arashmosalla96.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/arashmosalla)
 
-- 💻 I am a highly innovative and motivated Transportation eng at Amirkabir university of technology (Tehrana polytechnic),
+- 💻 I am a highly innovative and motivated Transportation eng at Amirkabir university of technology (Tehran polytechnic),
 - 🌱 I have developed my software development skills as a self-taught programmer, proficient in Python and Machine learning.
 - 💻 I excel at tackling ITS chalenges by utilizing the latest academic research, performing advanced data analyses, dealing with big data, and implementing efficient ML models.
 - 📫 How to reach me: arashmosalla96@gmail.com
